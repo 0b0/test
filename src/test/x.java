@@ -38,6 +38,7 @@ public class x {
     public static void main(String[] args) {
         data();
         lista();
+        /* test comment */
     }
 }
 ///:~
